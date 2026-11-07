@@ -1,14 +1,19 @@
 title: "Zhenjian Wu"
 description: "Bilingual academic homepage with English as the default entry and a complete Chinese mirror page."
-baseurl: ""
-url: "https://wuzhenjian0125.github.io"
-repository: "wuzhenjian0125/wuzhenjian0125.github.io"
+baseurl: "/wuzhenjian.github.io"
+url: "https://zhaoxingxing0125.github.io"
+repository: "zhaoxingxing0125/wuzhenjian.github.io"
 lang: en
 timezone: Asia/Shanghai
 markdown: kramdown
 permalink: pretty
 include:
   - _pages
+exclude:
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   publications:

@@ -1,6 +1,16 @@
-# wuzhenjian0125.github.io
+# zhaoxingxing0125/wuzhenjian.github.io
 
 Bilingual academic homepage for Zhenjian Wu. The website opens in English by default at `/`, and a complete Chinese mirror page is available at `/zh/`.
+
+## Deployment
+
+This checkout publishes to `zhaoxingxing0125/wuzhenjian.github.io`. Enable GitHub Pages from branch `main` and directory `/(root)`.
+
+English: https://zhaoxingxing0125.github.io/wuzhenjian.github.io/
+
+Chinese: https://zhaoxingxing0125.github.io/wuzhenjian.github.io/zh/
+
+The project-site prefix is configured through `baseurl` in `_config.yml`.
 
 ## Structure
 
